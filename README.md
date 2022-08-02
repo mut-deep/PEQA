@@ -1,2 +1,2 @@
 # PEQA
-A Massive Persian Quenstion-Answering and Chatbot Dataset
+A Massive Persian Question-Answering and Chatbot Dataset
