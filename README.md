@@ -96,7 +96,7 @@ First we set ***training parameters***, then we ***initialize*** our optimizers,
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ZahraArshia/PeQa/issues).
+Feel free to check the [issues page](https://github.com/mut-deep/PEQA/issues).
 
 ## Show your support
 
@@ -108,4 +108,4 @@ We would like to acknowledge both [MUT DeepLearning Lab](https://github.com/mut-
 
 ## License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [GNU](https://github.com/mut-deep/PEQA/blob/main/LICENSE) licensed.
